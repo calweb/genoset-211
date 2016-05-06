@@ -1,0 +1,18 @@
+{
+  "rs6413413": {
+    "chromosome": 4,
+    "genotype": "AA"
+  },
+  "rs283413": {
+    "chromosome": 4,
+    "genotype": "GG"
+  },
+  "rs1693482": {
+    "chromosome": 4,
+    "genotype": "CC"
+  },
+  "rs698": {
+    "chromosome": 10,
+    "genotype": "AA"
+  }
+}
