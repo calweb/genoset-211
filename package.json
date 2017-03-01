@@ -1,6 +1,6 @@
 {
   "name": "genoset-211",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Problem metabolizing ethanol with ADH (Alcohol dehydrogenase)",
   "main": "index.js",
   "directories": {
